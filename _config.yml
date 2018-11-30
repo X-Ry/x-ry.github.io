@@ -19,7 +19,7 @@ markdown: kramdown
 jekyll-mentions:
     base_url: https://github.com
 
-url: https://HOME2.0
+url: https://HOME2.0.github.io
 
 analytics-google: UA-97394091-1
 
