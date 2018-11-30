@@ -1,0 +1,80 @@
+.wrapper-project
+  max-width: 25%
+  float: left
+  height: 100vh
+  overflow: auto
+  box-sizing: border-box
+
+  @media #{tablet}
+    .wrapper-project
+        max-width: 100%
+        width: 100%
+
+  > .post
+    width: 90%
+    margin: auto
+    overflow-wrap: break-word
+
+    > .proj-header
+
+        > .nav
+            position: relative
+            height: 75px
+
+            > .list
+                padding: 0 0 0 0
+
+                > .item
+                    padding-top: 25px
+
+                    > .link
+                        padding: 0 0 0 0
+
+                > #p-h-img
+                    max-width: 50px
+                    padding-top: 10px
+                    float: right
+
+        > .link
+
+            > .selfie
+                height: 10%
+                width: 10%
+    
+
+  ::-webkit-scrollbar
+      width: 0px  /* remove scrollbar space */
+
+.gallery-wrapper
+    overflow: auto
+    box-sizing: border-box
+    float: right
+    width: 75%
+    height: 100vh
+    background: #232323
+
+    > .image-wrapper
+        position: relative
+        overflow: auto
+        box-sizing: border-box
+
+        ::after
+            content: ''
+            display: block
+            clear: both
+
+        > .grid-item
+            float: left 
+            width: 33.333%
+
+            > img 
+                display: block
+                max-width: 100%
+
+.grid-sizer
+    width: 33.333%
+
+@media screen and (max-width: 768px)
+  /* 1 column for smaller screens */
+  .grid-sizer 
+    width: 100% 
