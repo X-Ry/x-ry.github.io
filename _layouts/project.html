@@ -1,0 +1,114 @@
+--- 
+layout: blank 
+---
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+
+    <meta name=description content="{{ site.bio }}">
+    <meta name=author content="{{ site.name }}"> {% seo %} {% include favicon.html %}
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ " /feed.xml " }}" />
+    
+    <style>
+        {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
+        {{scss_sheet | scssify}}
+    </style>
+
+    {% include header-js.html %} 
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script src="https://imagesloaded.desandro.com/imagesloaded.pkgd.js"></script>
+</head>
+
+<body>
+    <div class="wrapper-project">
+        <div class="post">
+            <div class="proj-header">
+                <nav class="nav">
+                    <ul class="list">
+                        <li class="item">
+                            <a class="link" href="/">← Home</a>
+                        </li>
+                        <li id="p-h-img">
+                            <a class="link" href="/">
+                                <img class="selfie" alt="{{site.name}}" src="/assets/images/profiles/cube.png" onmouseover="this.src='/assets/images/profiles/anticube.png';"
+                                    onmouseout="this.src='/assets/images/profiles/cube.png';" />
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+
+                
+            </div>
+            
+            {% if page.image and page.headerImage %}
+            <img class="title-image project" src="{{ page.image }}" alt="{{ page.title }}"> 
+            {% endif %}
+
+            <h1 class="title">
+                {{ page.title }}
+            </h1>
+
+            {% if site.show-tags %}
+            <div class="post-tags">
+                {% if page.surfaceCategories %}
+                <span>Category: </span>
+                {% for category in page.categories %}
+                <a class="item" href="/categories/#{{category|slugify}}">{{category}}</a>
+                {% endfor %} {% endif %} {% if page.surfaceTags %}
+                <span> Tags: </span>
+                {% for tag in page.tags %}
+                <a class="item" href="/tags/#{{ tag | slugify }}">{{ tag }}</a>
+                {% endfor %} {% endif %}
+            </div>
+            {% endif %} 
+            
+            {{content}}
+
+            <footer class="footer-main">
+                {{ site.name }} © {{ site.time | date: '%Y' }}
+                <a class="link" href="{{ site.url }}/feed.xml" target="_blank">
+                    <svg class="icon icon-rss-dark">
+                        <use xlink:href="#icon-rss-dark"></use>
+                    </svg>
+                </a>
+
+                <p class="extra"></p>
+            </footer>
+        </div>
+    </div>
+
+    <div class="gallery-wrapper">
+        <div class="image-wrapper">
+            <div class="grid-sizer"></div>
+                    
+            {% for griditem in page.galleryimages %}
+                <div class="grid-item">
+                    <a href="{{griditem}}"><img src="{{griditem}}"></a>
+                </div> 
+            {% endfor %}
+        </div>
+    </div>
+
+    <script>
+        var $grid = $('.image-wrapper').masonry({
+                itemSelector: '.grid-item',
+                percentPosition: true
+            });
+            $grid.find('.grid-sizer')[0]
+            // layout Masonry after each image loads
+            $grid.imagesLoaded().progress(function () {
+                $grid.masonry();
+            });  
+    </script>>
+    
+    {% include analytics-google.html %} 
+    
+    {% include icons.html %}
+
+</body>
