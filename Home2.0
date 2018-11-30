@@ -1,0 +1,136 @@
+################################## BACKEND ##################################
+### jekyll ###
+gems:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+
+plugins:
+  - jekyll-admin
+  - jemoji
+
+include: ["_pages"] #specifically include folders
+
+markdown: kramdown
+
+### web ###
+jekyll-mentions:
+    base_url: https://github.com
+
+url: https://justinwzig.github.io
+
+analytics-google: UA-97394091-1
+
+permalink: /:title/ #Sets permalink for pages and posts
+
+################################## SITE INFO ##################################
+### surfaced ###
+name: Justin Ziegelmueller
+bio: CS/CE Student, Crazy Liberal, Econ Nerd, Web Designer, Adjective Enthusiast.
+title: Justin Ziegelmueller's Personal Website #(tab title)
+
+### SEO ###
+description: The personal site of Justin Ziegelmueller.
+url: https://justinwzig.github.io
+twitter:
+    username: justinwzig
+facebook: 
+    app_id: 100006021049016
+    publisher: 100006021049016
+    admin: 100006021049016
+logo: assets/images/profiles/profile2.jpg
+social:
+    name: Justin Ziegelmueller
+    links:
+        - https://www.twitter.com/justinwzig
+        - https://www.facebook.com/justinwzig
+        - https://www.linkedin.com/in/justinwzig
+        - https://www.github.com/justinwzig
+        - https://www.behance.net/justinwzig
+        
+
+################################## DESIGN & STRUCTURE ##################################
+### design ###
+
+animations: true
+
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: large
+
+### pages ###
+
+# Page Control #
+projects: true
+about: true
+blog: true
+disqus: false
+
+# uncomment for pagination
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+### posts ###
+# Show In posts?
+read-time: true
+show-tags: true
+related: true
+show-author: true
+post-advance-links: [blog] # Display links for next and previous posts for the specified categories
+
+################################## AUTHOR INFO  ##################################
+# Author Page Info #
+authors:
+    justinz:
+        name: Justin Ziegelmueller
+        bio: CS/CE Student, Crazy Liberal, Econ Nerd, Web Designer, Adjective Enthusiast.
+        external-image: false
+        picture: assets/images/profiles/small-profile2.png
+        hover-picture: assets/images/profiles/profile.jpg
+        small-hover-picture: assets/images/profiles/small-profile.jpg
+        twitter: justinwzig
+
+# Profile Picture #
+external-image: false
+picture: assets/images/profiles/profile2.png
+hover-picture: assets/images/profiles/profile.jpg
+
+# Resume #
+resume: true
+resume-external: false
+resume-url: assets/files/resume-noinfo.pdf
+
+# Social Links #
+facebook: justinwzig
+twitter: justinwzig
+# google: mygoogle
+instagram: justinwzig
+# pinterest: mypinterest
+linkedin: justinwzig
+youtube: JustinZiegelmueller
+# spotify: myspotify
+github: justinwzig
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+codepen: justinwzig
+email: jziegelmuel [at] cps [dot] edu
+
+################################## FRONT MATTER DEFAULTS ##################################
+defaults:
+  - scope:
+      path: ""
+    values:
+      headerImage: false
+      hidden: false
+      image: /assets/images/util/sm-pre.png
+      star: false
+      author: justinz
+      surfaceCategories: false
+      surfaceTags: true
+      showDate: true
