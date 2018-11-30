@@ -1,0 +1,13 @@
+---
+layout: page 
+title: A Collection of Assorted Ideas
+permalink: /assorted-ideas/
+---
+
+<section class="list">
+    {% for post in site.posts %}
+        {% if post.category == 'ideas' %}
+            {% include blog-post.html %}
+        {% endif %}
+    {% endfor %}
+</section>
