@@ -1,0 +1,26 @@
+---
+layout: page 
+title: Blog
+permalink: "/blog"
+---
+
+<section class="list">
+    {% for post in site.posts %} {% if post.hidden != true %}
+    <!--{% include blog-post.html %}-->
+
+    {% if post.external_url %}
+    <div class="item {% if post.star %}star{% endif %} external">
+        <a href="{{post.external_url}}" class="url">
+            <aside class="date"><time dattime="{{ post.date | date: " %d-%m-%Y " }}">{{ post.date | date: "%b %d %Y" }}</time></aside>{{post.jemoji}}
+            <h3 class="title external-url"><span>{{post.title}} </span><span class="display-link">{{post.display_link}}</span></h3>
+        </a>
+    </div>
+    {% else %}
+    <div class="item {% if post.star %}star{% endif %}">
+        <a href="{{ post.url }}" class="url">
+            <aside class="date"><time datetime="{{ post.date | date:" %d-%m-%Y " }}">{{ post.date | date: "%b %d %Y" }}</time></aside>{{ post.jemoji }}
+            <h3 class="title">{{ post.title }}</h3>
+        </a>
+    </div>
+    {% endif %} {% endif %} {% endfor %}
+</section>
