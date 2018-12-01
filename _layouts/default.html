@@ -51,12 +51,12 @@ layout: compress
     {% for js in page.jsload %}
         <script type="text/javascript">
       
- 
+         {% include {{ js }} %}
         
                 </script> 
     {% endfor %}
 
-     <!--   {% include {{ js }} %} -->
+ 
 
    {% include icons.html %}
 
