@@ -19,7 +19,7 @@ markdown: kramdown
 jekyll-mentions:
     base_url:/HOME2.0
 
-url: https:/x-ry.gethub.io/HOME2.0
+url: https:/x-ry.github.io/HOME2.0
 analytics-google: UA-97394091-1
 
 permalink: /:title/ #Sets permalink for pages and posts
