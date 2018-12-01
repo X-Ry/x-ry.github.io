@@ -19,7 +19,7 @@ markdown: kramdown
 jekyll-mentions:
 base_url: https://github.com
 
-url: https:/x-ry.github.io/
+url: https:/x-ry.github.io/home
 analytics-google: UA-97394091-1
 
 permalink: /:title/ #Sets permalink for pages and posts
@@ -32,7 +32,7 @@ title: Ryan Newkirk's Personal Website #(tab title)
 
 ### SEO ###
 description: The personal site of Justin Ziegelmueller.
-url: https:/x-ry.github.io/
+url: https:/x-ry.github.io/home
 twitter:
     username: justinwzig
 facebook: 
