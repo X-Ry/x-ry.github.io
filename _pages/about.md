@@ -1,12 +1,13 @@
 ---
 title: About
-headerImage: false
+headerImage: ture
 layout: page
 published: true
 permalink: "/about"
 ---
 
 ![Profile Image]({{ site.url }}/assets/images/about/about-top.jpg)
+
 
 
 Hey there! I'm Justin Ziegelmueller, a high school senior from Chicago currently attending [Northside College Prep,](http://www.northsideprep.org/), but I hope to study some combination of computer science, interactive media, business, economics, and/or politics in college. Most of my time is spent either studying or making, designing, and developing all manner of things. I mostly reside in my basement, but if I'm not there, you're liable to find me out for a sail on Lake Michigan or skiing on a hill somewhere.
