@@ -17,7 +17,7 @@ markdown: kramdown
 
 ### web ###
 jekyll-mentions:
-    base_url:/HOME2.0
+base_url: /HOME2.0
 
 url: https:/x-ry.github.io/HOME2.0
 analytics-google: UA-97394091-1
