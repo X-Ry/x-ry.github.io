@@ -14,7 +14,7 @@ layout: compress
     
     {% seo %}
     
- <!--  {% include favicon.html %} -->
+  {% include favicon.html %}
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
@@ -26,13 +26,13 @@ layout: compress
         {{ scss_sheet | scssify }}
     </style>
 
-    <!--  {% include style.scss %} -->
+    {% include style.scss %}
     
-    <!-- {% include header-js.html %} -->
+     {% include header-js.html %} 
 
-  <!--   {% include deferred-js.html %} -->
+    {% include deferred-js.html %} 
 
-<!-- {% include analytics-google.html %} -->
+    {% include analytics-google.html %} 
 </head>
 <body>
     <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
@@ -58,7 +58,7 @@ layout: compress
 
  
 
- <!--  {% include icons.html %} -->
+  {% include icons.html %}
 
     
 </body>
