@@ -20,7 +20,7 @@ jekyll-mentions:
 base_url: https://github.com
 
 url: https:/x-ry.github.io
-analytics-google: UA-97394091-1
+## analytics-google: UA-97394091-1 ##
 
 permalink: /:title/ #Sets permalink for pages and posts
 
