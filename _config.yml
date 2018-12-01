@@ -133,3 +133,5 @@ defaults:
       surfaceCategories: false
       surfaceTags: true
       showDate: true
+
+theme: jekyll-theme-slate
