@@ -20,12 +20,14 @@ layout: compress
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
     <style>
         {% capture scss_sheet %}
-        {% include style.scss %}
+      
         
         {% endcapture %}
         {{ scss_sheet | scssify }}
     </style>
 
+    <!--  {% include style.scss %} -->
+    
     <!-- {% include header-js.html %} -->
 
   <!--   {% include deferred-js.html %} -->
@@ -51,7 +53,7 @@ layout: compress
     {% for js in page.jsload %}
         <script type="text/javascript">
       
-       //  {% include {{ js }} %}
+       //  {% {{ js }} %}
         
                 </script> 
     {% endfor %}
