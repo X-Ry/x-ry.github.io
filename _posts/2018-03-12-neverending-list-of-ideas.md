@@ -1,6 +1,6 @@
 ---
 title: 'Ideas.'
-date: '2018-3-12 10:22pm'
+date: '2018-03-12 10:22pm'
 description: 'Letting my brain wash up on the shores of the internet.'
 author: justinz	
 
