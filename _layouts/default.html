@@ -51,9 +51,10 @@ layout: compress
     </div>
 
     {% for js in page.jsload %}
+                
         <script type="text/javascript">
       
-       //  {% {{ js }} %}
+         {% {{ js }} %}
         
                 </script> 
     {% endfor %}
