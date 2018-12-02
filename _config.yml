@@ -6,7 +6,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jemoji
-  
+
 plugins:
   - jekyll-admin
   - jemoji
@@ -35,11 +35,11 @@ description: The personal site of Ryan Newkirk.
 url: https://x-ry.github.io
 twitter:
     username: justinwzig
-
- facebook:
-  app_id: 100006021049016
-  publisher: 100006021049016
-  admin: 100006021049016
+#facebook: 
+    username: http://www.facebook.com/ryan.newkirk.161
+ #   app_id: 100006021049016
+  #  publisher: 100006021049016
+   # admin: 100006021049016
 logo: assets/images/profiles/profile2.jpg
 social:
     name: Ryan Newkirk
@@ -106,7 +106,7 @@ resume-url: assets/files/resume-noinfo.pdf
 # Social Links 
 
 twitter: justinwzig
-facebook: ryan.newkirk.161
+facebook: /ryan.newkirk.161
 #google: mygoogle
 #instagram: justinwzig
 # pinterest: mypinterest
@@ -121,7 +121,7 @@ github: x-ry
 # medium: medium
 # vimeo: myvimeo
 codepen: justinwzig
-email:rnewkirk@cps.edu 
+email: rnewkirk [at] cps [dot] edu
 
 ################################## FRONT MATTER DEFAULTS ##################################
 defaults:
