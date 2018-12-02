@@ -36,6 +36,7 @@ url: https://x-ry.github.io
 twitter:
     username: justinwzig
 #facebook: 
+    username: http://www.facebook.com/ryan.newkirk.161
  #   app_id: 100006021049016
   #  publisher: 100006021049016
    # admin: 100006021049016
@@ -48,7 +49,7 @@ social:
         - https://www.linkedin.com/in/justinwzig
         - https://www.github.com/justinwzig
         - https://www.behance.net/justinwzig
-        - https://www.facebook.com/ryan.newkirk.161
+       
         
 
 ################################## DESIGN & STRUCTURE ##################################
@@ -105,7 +106,7 @@ resume-url: assets/files/resume-noinfo.pdf
 # Social Links 
 
 twitter: justinwzig
-facebook: ryan.newkirk.161
+facebook: /ryan.newkirk.161
 #google: mygoogle
 #instagram: justinwzig
 # pinterest: mypinterest
