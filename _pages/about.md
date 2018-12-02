@@ -10,4 +10,4 @@ permalink: "/about"
 
 
 
-Hey there! I'm Ryan Newkikr, a high school junior from Chicago currently attending [Whitney Young High School,](https://wyoung.org/). 
+Hey there! I'm Ryan Newkirk, a high school junior from Chicago currently attending [Whitney Young High School,](https://wyoung.org/). 
