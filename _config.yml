@@ -101,10 +101,11 @@ resume: true
 resume-external: false
 resume-url: assets/files/resume-noinfo.pdf
 
-# Social Links #
+# Social Links 
+
 facebook: ryan.newkirk.161
 twitter: justinwzig
-# google: mygoogle
+#google: mygoogle
 instagram: justinwzig
 # pinterest: mypinterest
 linkedin: justinwzig
