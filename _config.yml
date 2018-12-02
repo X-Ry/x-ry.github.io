@@ -83,7 +83,7 @@ post-advance-links: [blog] # Display links for next and previous posts for the s
 # Author Page Info #
 authors:
     justinz:
-        name: Justin Ziegelmueller
+        name: Ryan Newkirk
         bio: CS/CE Student, Crazy Liberal, Econ Nerd, Web Designer, Adjective Enthusiast.
         external-image: false
         picture: assets/images/profiles/small-profile2.png
@@ -102,7 +102,7 @@ resume-external: false
 resume-url: assets/files/resume-noinfo.pdf
 
 # Social Links #
-facebook: justinwzig
+facebook: ryan.newkirk.161
 twitter: justinwzig
 # google: mygoogle
 instagram: justinwzig
@@ -118,7 +118,7 @@ github: justinwzig
 # medium: medium
 # vimeo: myvimeo
 codepen: justinwzig
-email: jziegelmuel [at] cps [dot] edu
+email: rnewkirk [at] cps [dot] edu
 
 ################################## FRONT MATTER DEFAULTS ##################################
 defaults:
