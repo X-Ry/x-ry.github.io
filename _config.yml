@@ -35,8 +35,9 @@ description: The personal site of Ryan Newkirk.
 url: https://x-ry.github.io
 twitter:
     username: justinwzig
-#facebook: 
-    username: http://www.facebook.com/ryan.newkirk.161
+
+ facebook_username: ryan.newkirk.161
+
  #   app_id: 100006021049016
   #  publisher: 100006021049016
    # admin: 100006021049016
@@ -106,7 +107,9 @@ resume-url: assets/files/resume-noinfo.pdf
 # Social Links 
 
 twitter: justinwzig
-facebook: /ryan.newkirk.161
+#facebook: /ryan.newkirk.161
+facebook_username: ryan.newkirk.161
+ 
 #google: mygoogle
 #instagram: justinwzig
 # pinterest: mypinterest
