@@ -6,7 +6,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jemoji
-
+  
 plugins:
   - jekyll-admin
   - jemoji
