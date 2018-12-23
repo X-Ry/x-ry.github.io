@@ -15,11 +15,11 @@ projects: true
 description:  6 Years of First Robotics
 published: true
 ---
-<span class="drop-cap">B</span>ack in October of 2016, [FiveThirtyEight](https://fivethirtyeight.com/) published [this](https://fivethirtyeight.com/features/this-challenge-will-boggle-your-mind/) Riddler puzzle set. These weekly challenges include a wide variety of puzzles and stats problems, but this one caught my eye - it asks, essentially, what the longest Scrabble word is that has other valid scrabble words _nested inside it-_ i.e. the longest word you can form by forming other shorter words first and adding a tile every turn. I figured that there had to be an algorithmic solution to this problem, and, sure enough, there (sorta) is.
+<span class="drop-cap">I</span>t's all started 6 years. I moved to Lincoln Park.  This essay I wrote in AP English class shared a best lesson I've learned in First Robotics team.  
 
 ![ARE YOU READDDDYYYYYY](https://justinwzig.github.io/assets/images/posts/scrabble/scrab-image.jpg)
 
-## The problem:
+## The Human Pyrimid:
 
 Just so we're clear on the challenge, here's a table demonstrating how the words should be constructed:
 
