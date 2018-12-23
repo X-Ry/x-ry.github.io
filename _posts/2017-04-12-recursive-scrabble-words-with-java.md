@@ -1,17 +1,18 @@
 ---
-title: Recursive Scrabble Words With Java
+title: 6 Years of First Robotics
 layout: post
-date: 2017-04-12 2:10am
+date: 2018-12-22
 headerImage: false
 tag:
   - project
-  - java
-  - riddler
+  - FLL
+  - FTC
+  - Robotics
 
 star: false
-author: justinz
+author: RyanNewkirk
 projects: true
-description: Recursive Scrabble Words With Java for a Riddler Puzzle
+description:  6 Years of First Robotics
 published: true
 ---
 <span class="drop-cap">B</span>ack in October of 2016, [FiveThirtyEight](https://fivethirtyeight.com/) published [this](https://fivethirtyeight.com/features/this-challenge-will-boggle-your-mind/) Riddler puzzle set. These weekly challenges include a wide variety of puzzles and stats problems, but this one caught my eye - it asks, essentially, what the longest Scrabble word is that has other valid scrabble words _nested inside it-_ i.e. the longest word you can form by forming other shorter words first and adding a tile every turn. I figured that there had to be an algorithmic solution to this problem, and, sure enough, there (sorta) is.
