@@ -15,7 +15,7 @@ projects: true
 description:  6 Years of First Robotics
 published: true
 ---
-<span class="drop-cap">I</span>t's all started 6 years when I moved to Lincoln Park. On the first day, I got invited to join a FLL( First Lego League) team. In the past 6 years, I've designed, built many robots, competed in regional and state comptitions. Aside from winning countless medals, this journey awarded me with rich experiences in the filed of engineering and a group of wonderful friends. This essay captured a specical moment where I learned an important lesson. 
+<span class="drop-cap">I</span>t's all started 6 years ago when I moved to Lincoln Park. On the first day, I got invited to join a FLL( First Lego League) team. In the past 6 years, I've designed, built many robots, competed in regional and state comptitions. Aside from winning countless medals, this journey awarded me with rich experiences in the filed of engineering and a group of wonderful friends. This essay captured a specical moment where I learned an important lesson. 
 
 ![ARE YOU READDDDYYYYYY](https://x-ry.github.io/assets/images/posts/DSC_0117.JPG)
 
