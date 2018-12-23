@@ -17,16 +17,13 @@ published: true
 ---
 <span class="drop-cap">I</span>t's all started 6 years. I moved to Lincoln Park.  This essay I wrote in AP English class shared a best lesson I've learned in First Robotics team.  
 
-![ARE YOU READDDDYYYYYY](https://justinwzig.github.io/assets/images/posts/scrabble/scrab-image.jpg)
+![ARE YOU READDDDYYYYYY](https://github.com/X-Ry/x-ry.github.io/tree/master/assets/images/posts/DSC_0117.JPG)
 
 ## The Human Pyrimid:
 
      “Ryan, quick! Come on up!” Grant shouted at me, climbing on top of Peter. Our coaches, Mr. Goodall and Mr. Whitefield, had crouched down on each side, pushing up with their strong arms, building a perfect foundation. We had just won our First Lego League robotics regional competition. The winning teams were supposed to take a group photo in front of the FLL sign, and right on the spot, they decided to build a human pyramid. I was hesitant, freezing for a second. 
-
 “What’s wrong? Ryan, quick, we can’t hold it much longer.”
-
 “Ryan, come on up!”
-
 I was excited for the team, and I knew I should’ve hopped on, but I couldn’t move; my feet were glued to the ground.
 “It’s ok; it’s ok, don’t worry about it. Let’s just take the picture.”
 Snap! The cameraman took our picture, me standing next to the human pyramid with a polite smile on my face. This was my first robotics competition. We won and were advancing to the state competition. Sure, I was happy, but still, climbing on top of Grant and his sister Grace’s back seemed like a daunting task. I was a little afraid that I would break their backs (or that I’d break mine), but I knew there was something else holding me back.
