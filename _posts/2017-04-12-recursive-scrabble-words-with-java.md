@@ -21,7 +21,7 @@ published: true
 
 ## The Human Pyrimid:
 
-     “Ryan, quick! Come on up!” Grant shouted at me, climbing on top of Peter. Our coaches, Mr. Goodall and Mr. Whitefield, had crouched down on each side, pushing up with their strong arms, building a perfect foundation. We had just won our First Lego League robotics regional competition. The winning teams were supposed to take a group photo in front of the FLL sign, and right on the spot, they decided to build a human pyramid. I was hesitant, freezing for a second. 
+  “Ryan, quick! Come on up!” Grant shouted at me, climbing on top of Peter. Our coaches, Mr. Goodall and Mr. Whitefield, had crouched down on each side, pushing up with their strong arms, building a perfect foundation. We had just won our First Lego League robotics regional competition. The winning teams were supposed to take a group photo in front of the FLL sign, and right on the spot, they decided to build a human pyramid. I was hesitant, freezing for a second. 
 “What’s wrong? Ryan, quick, we can’t hold it much longer.”
 “Ryan, come on up!”
 I was excited for the team, and I knew I should’ve hopped on, but I couldn’t move; my feet were glued to the ground.
