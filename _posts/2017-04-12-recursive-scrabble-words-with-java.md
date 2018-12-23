@@ -17,7 +17,7 @@ published: true
 ---
 <span class="drop-cap">I</span>t's all started 6 years. I moved to Lincoln Park.  This essay I wrote in AP English class shared a best lesson I've learned in First Robotics team.  
 
-![ARE YOU READDDDYYYYYY](https://github.com/X-Ry/x-ry.github.io/tree/master/assets/images/posts/DSC_0117.JPG)
+![ARE YOU READDDDYYYYYY](https://github.com/X-Ry/x-ry.github.io/assets/images/posts/DSC_0117.JPG)
 
 ## The Human Pyrimid:
 
