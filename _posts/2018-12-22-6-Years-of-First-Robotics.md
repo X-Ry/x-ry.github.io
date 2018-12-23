@@ -15,11 +15,14 @@ projects: true
 description:  6 Years of First Robotics
 published: true
 ---
-<span class="drop-cap">I</span>t's all started 6 years ago when I moved to Lincoln Park. On the first day, I got invited to join a FLL( First Lego League) team. In the past 6 years, I've designed, built many robots, competed in regional and state comptitions. Aside from winning countless medals, this journey awarded me with rich experiences in the filed of engineering and a group of wonderful friends. This essay captured a specical moment where I learned an important lesson. 
+<span class="drop-cap">I</span>t's all started 6 years ago when I moved to Lincoln Park. On the first day, I got invited to join a FLL( First Lego League) team. In the past 6 years, I've designed, built many robots, competed in regional and state comptitions. Aside from winning countless medals, this journey awarded me with rich experiences in the filed of engineering and a group of wonderful friends. Here are some specical moments. 
+
+
+
+## The Human Pyrimid:
 
 ![ARE YOU READDDDYYYYYY](https://x-ry.github.io/assets/images/posts/DSC_0117.JPG)
 
-## The Human Pyrimid:
 
   “Ryan, quick! Come on up!” Grant shouted at me, climbing on top of Peter. Our coaches, Mr. Goodall and Mr. Whitefield, had crouched down on each side, pushing up with their strong arms, building a perfect foundation. We had just won our First Lego League robotics regional competition. The winning teams were supposed to take a group photo in front of the FLL sign, and right on the spot, they decided to build a human pyramid. I was hesitant, freezing for a second. 
   
@@ -52,13 +55,8 @@ At school, Grant was a guide who showed me everything. The band and soccer team 
 A year later, I was accepted into Whitney Young and Grant went to a private school in Boston. I joined the Whitney Young Robotics Team and again worked on collaborating and building trust with new friends. Each time at the club fair, I would use my own story to invite kids with no engineering experience and students new to the school to join the team. 
 At the Robophin’s first regional robotics competition, we were constantly working as a team to fix and improve the robot for each upcoming match, and by the end of the day, we had won the competition. There I was again, in the same place as I was 4 years ago, again, in front of the same sign, again, beside the same cameraman, again preparing for our team photo. This time, it was me who asked my teammates if they want to make a Human Pyramid. Yes, they all agreed without hesitation. I kneeled down. Then, the other members joined, and in the blink of an eye, we had built a human pyramid. This time, instead of standing aside, I was the part of the foundation. To my surprise, the teammates on my back didn’t feel that heavy, as if some magic power had lifted their weight off me. At that moment, I began to realize what my experiences had taught me: The first robotics team taught me to always adapt to changes and embrace strangers, and the human pyramid taught me to trust and to support each other. 
 
+## My Engineering Notebook
 
-Note - I would’ve taken out the portions of the essay that describe the two moments I had around being “photos”, but that’s because the human pyramid is only created because we as teams were posing for photos, giving it a purpose.
-
-
-## Code Synopsis
-
-This struck me as something that could definitely be done programmatically and as something that would be good practice for string manipulation in java, so my friend Matthew and I decided to take it on and submit our solution. For the sake of brevity (and not offending anyone with our disgusting code) I'm only going to go over a few snippets here. You can view the entire code and download the project [on GitHub.](https://github.com/justinwzig/RecursiveScrabble)
 
 ### In short:
 
