@@ -12,7 +12,7 @@ tag:
   - hacker
   
 published: true
-comments: true
+comments: false
 ---
 
   My mom dropped us off in front of a skimpy warehouse. My friend John and I each had a huge backpack and sleeping bag on our backs --- we have a long night ahead of us, and the best of all, it’s student-only! 
