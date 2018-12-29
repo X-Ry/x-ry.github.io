@@ -1,5 +1,5 @@
 ---
-title: "hackathon.js"
+title: "Hack Chicago"
 date: '2018-7-23 10:52	pm'
 description: 'First Hack Chicago Experience'
 author: ryann	
@@ -25,5 +25,8 @@ comments: true
   
   Soon I discovered that I have overestimated our two rookie’s coding ability. SMart, ambitious as it was, clearly wasn’t going to be finished in time.  We quickly came up with a new idea, to create a digital version of a foreign strategic game of rock paper scissors (rps). John and I traded spots working on the code. While he slept, I continued progress on the game, clicking and clacking away in my sleeping bag under the table. Then, I went to sleep as he continued to do his part of the work. I wake up by hearing an event coordinator shouting “three hours to go!”  With a stiff back and a stiff mind, I knew there’s no time to waste. We took all our effort into the game. I had never encountered this many …. I maneuvered around the obstacles by coding and learning new techniques on the spot. We polished the game up as much as we could in DrRacket, and giving it the title “Rock Paper Scissors Stretch.” At the final ceremony, we presented our work on two laptops, demonstrating our product. 
   
-  Time passed quickly when you are surrounded by hundreds of earnest and caffeinated teenagers. When the clock strikes…, I finished the game with a sore back but an exciting mind. It’s motivating to see my coding pool of knowledge expands immensely in one night by practicing and using the latest and the most efficient tools. I never knew I could learn so much while having fun in one night. Hack Chicago inspired me to create an “App Inventor Club” in my high school, where I encouraged my fellow club members to learn coding by doing it.
+  Time passed quickly when you are surrounded by hundreds of earnest and caffeinated teenagers. When the clock strikes…, I finished the game with a sore back but an exciting mind. It’s motivating to see my coding pool of knowledge expands immensely in one night by practicing and using the latest and the most efficient tools. I never knew I could learn so much while having fun in one night. Hack Chicago inspired me to create the “Mobile App Inventor Club” in my high school, I encouraged a group of self experimenters with curious minds to experimenting just for the fun of it and collaborate as much as we can to solve a problem or create a nurdy game.     
+  
+  
+
 
