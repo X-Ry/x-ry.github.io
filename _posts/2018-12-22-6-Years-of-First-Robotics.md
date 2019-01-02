@@ -1,15 +1,20 @@
 ---
-title: 6 Years of First Robotics
+title: "6 Years of First Robotics"
+date: '2018-7-23 10:52	pm'
+description: '6 Years '
+author: ryann	
+
 layout: post
-date: 2018-12-22
+
 tag:
-  - project
-  - FLL
-author: RyanNewkirk
-projects: false
-description:  6 Years of First Robotics
+  - Robots
+  - code
+  - hacker
+  
 published: true
+comments: false
 ---
+
 <span class="drop-cap">I</span>t's all started 6 years ago when I moved to Lincoln Park. On the first day, I got invited to join a FLL( First Lego League) team. In the past 6 years, I've designed, built many robots, competed in regional and state comptitions. Aside from winning countless medals, this journey awarded me with rich experiences in the filed of engineering and a group of wonderful friends. Here are some specical moments. 
 
 
