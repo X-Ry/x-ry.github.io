@@ -11,7 +11,7 @@ tag:
 
 star: false
 author: RyanNewkirk
-projects: true
+projects: false
 description:  6 Years of First Robotics
 published: true
 ---
