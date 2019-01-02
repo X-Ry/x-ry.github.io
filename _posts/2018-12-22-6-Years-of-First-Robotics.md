@@ -19,7 +19,7 @@ tag:
 </html>
 star: false
 author: RyanNewkirk
-projects: true
+
 description:  6 Years of First Robotics
 published: true
 ---
