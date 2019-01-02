@@ -5,8 +5,6 @@ date: 2018-12-22
 tag:
   - project
   - FLL
-
-star: false
 author: RyanNewkirk
 projects: false
 description:  6 Years of First Robotics
