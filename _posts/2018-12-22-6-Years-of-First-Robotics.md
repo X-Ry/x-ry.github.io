@@ -8,10 +8,18 @@ tag:
   - FLL
   - FTC
   - Robotics
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
 
+</body>
+</html>
 star: false
 author: RyanNewkirk
-projects: true
+
 description:  6 Years of First Robotics
 published: true
 ---
