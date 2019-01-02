@@ -2,7 +2,6 @@
 title: 6 Years of First Robotics
 layout: post
 date: 2018-12-22
-headerImage: false
 tag:
   - project
   - FLL
