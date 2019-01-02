@@ -6,8 +6,6 @@ headerImage: false
 tag:
   - project
   - FLL
-  - FTC
-  - Robotics
 
 star: false
 author: RyanNewkirk
