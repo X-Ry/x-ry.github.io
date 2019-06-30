@@ -130,7 +130,7 @@ defaults:
     values:
       headerImage: false
       hidden: false
-      image: assets/images/profiles/profile2.jpg
+      image: assets/images/util/Rainbow-Colors-Piano-HD-Wallpaper-220x150.jpg
       star: false
       author: rnewkirk
       surfaceCategories: false
