@@ -64,7 +64,7 @@ width: large
 ### pages ###
 
 # Page Control #
-projects: true
+Footprints: true
 about: true
 blog: true
 disqus: false
