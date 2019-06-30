@@ -27,14 +27,14 @@ permalink: /:title/ #Sets permalink for pages and posts
 ################################## SITE INFO ##################################
 ### surfaced ###
 name: Ryan Newkirk
-bio: CS/CE Student, Econ Nerd, Web Designer, Adjective Enthusiast.
+bio: CS/CE/Data Science Student, Civic Tech Enthusiast.
 title: Ryan Newkirk's Personal Website #(tab title)
 
 ### SEO ###
 description: The personal site of Ryan Newkirk.
 url: https://x-ry.github.io
 twitter:
-    username: justinwzig
+    username: RyanNewkirk1
 #facebook: 
     username: http://www.facebook.com/ryan.newkirk.161
  #   app_id: 100006021049016
@@ -44,11 +44,11 @@ logo: assets/images/profiles/profile2.jpg
 social:
     name: Ryan Newkirk
     links:
-        - https://www.twitter.com/justinwzig
+        - https://twitter.com/RyanNewkirk1
         - https://www.facebook.com/ryan.newkirk.161
         - https://www.linkedin.com/in/justinwzig
-        - https://www.github.com/justinwzig
-        - https://www.behance.net/justinwzig
+        - https://x-ry.github.io/
+        
        
         
 
