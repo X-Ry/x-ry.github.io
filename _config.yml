@@ -120,7 +120,7 @@ github: x-ry
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-#codepen: justinwzig
+
 email: rnewkirk@cps.edu
 
 ################################## FRONT MATTER DEFAULTS ##################################
@@ -130,9 +130,9 @@ defaults:
     values:
       headerImage: false
       hidden: false
-      image: /assets/images/util/sm-pre.png
+      image: /assets/images/util/small-profile2.png
       star: false
-      author: justinz
+      author: rnewkirk
       surfaceCategories: false
       surfaceTags: true
       showDate: true
