@@ -130,7 +130,7 @@ defaults:
     values:
       headerImage: false
       hidden: false
-      image: /assets/images/util/small-profile2.png
+      image: assets/images/profiles/small-profile2.png
       star: false
       author: rnewkirk
       surfaceCategories: false
