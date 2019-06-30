@@ -91,7 +91,7 @@ authors:
         picture: assets/images/profiles/small-profile2.png
         hover-picture: assets/images/profiles/profile.jpg
         small-hover-picture: assets/images/profiles/small-profile.jpg
-        twitter: justinwzig
+        twitter: RyanNewkirk1
 
 # Profile Picture #
 external-image: false
@@ -105,12 +105,12 @@ resume-url: assets/files/resume-noinfo.pdf
 
 # Social Links 
 
-twitter: justinwzig
+twitter: RyanNewkirk1
 facebook: /ryan.newkirk.161
 #google: mygoogle
 #instagram: justinwzig
 # pinterest: mypinterest
-linkedin: justinwzig
+#linkedin: justinwzig
 youtube: /channel/UCfRGThUf4GliN9K9MCg7QVg?view_as=subscriber
 # spotify: myspotify
 github: x-ry
@@ -120,7 +120,7 @@ github: x-ry
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-codepen: justinwzig
+#codepen: justinwzig
 email: rnewkirk [at] cps [dot] edu
 
 ################################## FRONT MATTER DEFAULTS ##################################
