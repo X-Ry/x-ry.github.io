@@ -1,7 +1,7 @@
 ---
-title: 'posting a Photograph in Markdown'
-date: '2018-11-27 7:56pm'
-description: 'App Inventor Club 4th Meeting (test post)'
+title: 'Testing Markdown Images'
+date: '2017-11-27 7:56pm'
+description: 'this is a test post'
 author: x-ry	
 
 layout: post
