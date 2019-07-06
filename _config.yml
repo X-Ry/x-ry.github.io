@@ -86,7 +86,7 @@ post-advance-links: [blog] # Display links for next and previous posts for the s
 authors:
     justinz:
         name: Ryan Newkirk
-        bio: CS/CE Student, Econ Nerd, Web Designer, Adjective Enthusiast.
+        bio: CS/CE/Data Science Student, Civic Tech Enthusiast, Vedio Story Teller
         external-image: false
         picture: assets/images/profiles/small-profile2.png
         hover-picture: assets/images/profiles/profile.jpg
