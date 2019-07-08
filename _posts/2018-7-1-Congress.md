@@ -31,7 +31,7 @@ Talk to the legendary engineer-entrepreneur, 3Com found Robert Metcalfe
 
 Kids went crazy when Boston Dynamics found Marc Raibert brough the Spot Robot to the congress. 
 
-![Talk to CEO of Boston Dynamics](/assets/images/posts/congress/MarcRaibertBostonDynamics.jpg)
+![Talk to CEO of Boston Dynamics](/assets/images/posts/congress/MarcRaibertBostonDynamics.JPG)
 
 ![Play with Robot](/assets/images/posts/congress/about-top.jpg)
 
