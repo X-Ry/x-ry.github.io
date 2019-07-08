@@ -1,14 +1,14 @@
 ---
-title: "Summer Leadership Program In Chengdu"
-date: '2018-7-23 10:52	pm'
-description: 'Summer 2017'
+title: "Congress of Future Science and Technology Leaders"
+date: '2018-7-1 10:52	pm'
+description: 'Discover in the fields of science and technology, creativity and imagination'
 author: ryann	
 
 layout: post
 
 tag:
-  - Global Citizen
-  - Culture Exchange
+  - STEM
+  - Leadership
   
 published: true
 comments: false
