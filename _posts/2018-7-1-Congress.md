@@ -18,7 +18,7 @@ comments: false
 So lucky to have the opportunity to meet industry legends, educators, new inventors, and nobel prize winners, who all gave inspiring speeches of incredible stories and impactful discoveries in the fields of science and technology, creativity and imagination. 
   
 Meet Delegates from different states
-![Talk to JonMather](/assets/images/posts/congress/group.jpge)  
+!(/assets/images/posts/congress/group.jpge)  
 
 With 2006 Nobel Prize Winter in Physics, Nobel Laureate John Mather
 ![Talk to JonMather](/assets/images/posts/congress/JohcMather.JPG)
