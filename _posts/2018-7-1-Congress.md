@@ -19,7 +19,7 @@ So lucky to have the opportunity to meet industry legends, educators, new invent
   
 Meet Delegates from different states
 
-![Meet](/assets/images/posts/congress/group.jpge)  
+![Meet](/assets/images/posts/congress/group.jpeg)  
 
 With 2006 Nobel Prize Winter in Physics, Nobel Laureate John Mather
 
