@@ -25,7 +25,7 @@ With 2006 Nobel Prize Winter in Physics, Nobel Laureate John Mather
 
 ![Talk to JonMather](/assets/images/posts/congress/JohcMather.JPG)
 
-Talk to the an legendary engineer-entrepreneur, 3Com found Robert Metcalfe 
+Talk to the legendary engineer-entrepreneur, 3Com found Robert Metcalfe 
 
 ![Talk to 3M CEO](/assets/images/posts/congress/RobertMetcalfe.jpg)
 
