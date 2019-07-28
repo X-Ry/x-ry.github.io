@@ -24,24 +24,24 @@ Here is a link to the video explaining how I created the shirt.
 
 Here's some pictures of the design process.
 
-![steps](https://x-ry.github.io/assets/images/WYSE/7.10/step1.jpg)
+![steps](https://x-ry.github.io/assets/images/posts/YSPShirt/step1.jpg)
 
-![steps](https://x-ry.github.io/assets/images/WYSE/7.10/step2.jpg)
+![steps](https://x-ry.github.io/assets/images/posts/YSPShirt/step2.jpg)
 
-![steps](https://x-ry.github.io/assets/images/WYSE/7.10/step3.jpg)
+![steps](https://x-ry.github.io/assets/images/posts/YSPShirt/step3.jpg)
 
-![steps](https://x-ry.github.io/assets/images/WYSE/7.10/step4.jpg)
+![steps](https://x-ry.github.io/assets/images/posts/YSPShirt/step4.jpg)
 
-![steps](https://x-ry.github.io/assets/images/WYSE/7.10/step5.jpg)
+![steps](https://x-ry.github.io/assets/images/posts/YSPShirt/step5.jpg)
 
-![steps](https://x-ry.github.io/assets/images/WYSE/7.10/step6.jpg)
+![steps](https://x-ry.github.io/assets/images/posts/YSPShirt/step6.jpg)
 
-![steps](https://x-ry.github.io/assets/images/WYSE/7.10/step7.jpg)
+![steps](https://x-ry.github.io/assets/images/posts/YSPShirt/step7.jpg)
 
 And here is the finished T-shirt!
 
-![done1](https://x-ry.github.io/assets/images/WYSE/7.10/step8.jpg)
+![done1](https://x-ry.github.io/assets/images/posts/YSPShirt/step8.jpg)
 
-![done2](https://x-ry.github.io/assets/images/WYSE/7.10/step9.jpg)
+![done2](https://x-ry.github.io/assets/images/posts/YSPShirt/step9.jpg)
 
-![everyone wearing it](https://x-ry.github.io/assets/images/WYSE/7.10/team.jpg)
+![everyone wearing it](https://x-ry.github.io/assets/images/posts/YSPShirt/team.jpg)
