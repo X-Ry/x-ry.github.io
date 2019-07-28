@@ -42,6 +42,6 @@ And here is the finished T-shirt!
 
 ![done1](https://x-ry.github.io/assets/images/posts/YSPShirt/step8.jpg)
 
-![done2](https://x-ry.github.io/assets/images/posts/YSPShirt/step9.png)
+![done2](https://x-ry.github.io/assets/images/posts/YSPShirt/shoulder.jpg)
 
 ![everyone wearing it](https://x-ry.github.io/assets/images/posts/YSPShirt/team.jpg)
