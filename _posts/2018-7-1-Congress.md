@@ -15,7 +15,7 @@ comments: false
 ---
 
 
-So lucky to have the opportunity to meet industry legends, educators, new inventors, and nobel prize winners, who all gave inspiring speeches of incredible stories and impactful discoveries in the fields of science and technology, creativity and imagination. 
+I was really lucky to have the opportunity to meet industry legends, educators, new inventors, and nobel prize winners, who all gave inspiring speeches of incredible stories and impactful discoveries in the fields of science and technology, creativity and imagination. 
   
 Meet Delegates from different states
 
