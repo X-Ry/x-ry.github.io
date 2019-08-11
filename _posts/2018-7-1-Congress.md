@@ -17,19 +17,19 @@ comments: false
 
 I was really lucky to have the opportunity to meet industry legends, educators, new inventors, and nobel prize winners, who all gave inspiring speeches of incredible stories and impactful discoveries in the fields of science and technology, creativity and imagination. 
   
-Meet Delegates from different states
+Here's all the Delegates I met from around the country!
 
 ![Meet](/assets/images/posts/congress/group.jpeg)  
 
-With 2006 Nobel Prize Winter in Physics, Nobel Laureate John Mather
+Photo with the 2006 Nobel Prize Winter in Physics, Nobel Laureate John Mather.
 
 ![Talk to JonMather](/assets/images/posts/congress/JohcMather.JPG)
 
-Talk to the legendary engineer-entrepreneur, 3Com found Robert Metcalfe 
+Talking with the legendary engineer-entrepreneur, 3Com founder Robert Metcalfe.
 
 ![Talk to 3M CEO](/assets/images/posts/congress/RobertMetcalfe.jpg)
 
-Kids went crazy when Boston Dynamics found Marc Raibert brough the Spot Robot to the congress. 
+Meeting the CEO of Boston Dynamics, Marc Raibert, and getting the chance to meet their robot Spot.
 
 ![Talk to CEO of Boston Dynamics](/assets/images/posts/congress/MarcRaibertBostonDynamics.JPG)
 
