@@ -12,8 +12,6 @@ published: true
 surfaceTags: false
 showDate: false
 tag:
-  - Math
-  - Videos
   - Etcetera
 ---
 
