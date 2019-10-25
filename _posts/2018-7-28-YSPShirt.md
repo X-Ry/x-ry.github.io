@@ -18,7 +18,9 @@ showDate: false
 
 Here is a link to the video explaining how I created the shirt.
 
-[YSP-T-shirt Design Explained (Video Link)](https://www.facebook.com/ryan.newkirk.161/videos/224956204891219/)
+[YSP-T-shirt Design Explained (Facebook Video Link)](https://www.facebook.com/ryan.newkirk.161/videos/224956204891219/)
+[YSP-T-shirt Design Explained (YouTube Video Link)](https://www.youtube.com/watch?v=_eI6N1gZ1BY)
+
 
 [![YSP T-shirt Design Video](https://x-ry.github.io/assets/images/posts/YSPShirt/thumbnail.png)](https://www.facebook.com/ryan.newkirk.161/videos/224956204891219 "YSP T-shirt Design Video")
 
