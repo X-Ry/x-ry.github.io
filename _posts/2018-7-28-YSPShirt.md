@@ -48,3 +48,8 @@ And here is the finished T-shirt!
 ![done2](https://x-ry.github.io/assets/images/posts/YSPShirt/shoulder.jpg)
 
 ![everyone wearing it](https://x-ry.github.io/assets/images/posts/YSPShirt/team.jpg)
+
+
+More Math Projects:
+
+[Directing Math Videos](https://x-ry.github.io/FunTime/) [Researching Star Polygons](https://x-ry.github.io/QED)
