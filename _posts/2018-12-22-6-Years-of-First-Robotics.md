@@ -15,11 +15,11 @@ published: true
 comments: false
 ---
 
-<span class="drop-cap">I</span>t's all started 6 years ago when I moved to Lincoln Park. On the first day, I got invited to join a FLL( First Lego League) team. In the past 6 years, I've designed, built many robots, competed in regional and state comptitions. Aside from winning countless medals, this journey awarded me with rich experiences in the filed of engineering and a group of wonderful friends. Here are some specical moments. 
+<span class="drop-cap">I</span>t all started 6 years ago when I moved to Lincoln Park. On the first day, I got invited to join a FLL( First Lego League) team. In the past 6 years, I've designed, built many robots, competed in regional and state comptitions. Aside from winning countless medals, this journey awarded me with rich experiences in the filed of engineering and a group of wonderful friends. Here are some specical moments. 
 
 
 
-## The Human Pyrimid:
+## The Human Pyramid (FIRST Lego League 2016)
 
 ![ARE YOU READDDDYYYYYY](https://x-ry.github.io/assets/images/posts/DSC_0117.JPG)
 
@@ -73,6 +73,9 @@ Team and again worked on collaborating and building trust with new friends. Each
 
 At the Robophin’s first regional robotics competition, we were constantly working as a team to fix and improve the robot for each upcoming match, and by the end of the day, we had won the competition. There I was again, in the same place as I was 4 years ago, again, in front of the same sign, again, beside the same cameraman, again preparing for our team photo. This time, it was me who asked my teammates if they want to make a Human Pyramid. Yes, they all agreed without hesitation. I kneeled down. Then, the other members joined, and in the blink of an eye, we had built a human pyramid. This time, instead of standing aside, I was the part of the foundation. To my surprise, the teammates on my back didn’t feel that heavy, as if some magic power had lifted their weight off me. At that moment, I began to realize what my experiences had taught me: The first robotics team taught me to always adapt to changes and embrace strangers, and the human pyramid taught me to trust and to support each other. 
 
+## FIRST Lego League 2017
+![FIRST Lego League 2017 ](https://x-ry.github.io/assets/images/posts/FTC/2017.jpg)
+
 ## FIRST Tech Challenge 2019
 ![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/2019_Robotics.jpg)
 
@@ -82,4 +85,4 @@ At the Robophin’s first regional robotics competition, we were constantly work
 
 ![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/2017.jpg)
 
-![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/VID_20190119_154919338.mp4)
+![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/VID.gif)
