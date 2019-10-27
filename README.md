@@ -1,4 +1,4 @@
-Personal Website. [x-ry.github.io](x-ry.github.io)
+Personal Website. [x-ry.github.io](https://X-Ry.github.io)
 
 Developed using [Jekyll](https://jekyllrb.com/) and a customized version of the Indigo Template
 
