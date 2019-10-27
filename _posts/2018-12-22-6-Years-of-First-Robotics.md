@@ -73,5 +73,13 @@ Team and again worked on collaborating and building trust with new friends. Each
 
 At the Robophin’s first regional robotics competition, we were constantly working as a team to fix and improve the robot for each upcoming match, and by the end of the day, we had won the competition. There I was again, in the same place as I was 4 years ago, again, in front of the same sign, again, beside the same cameraman, again preparing for our team photo. This time, it was me who asked my teammates if they want to make a Human Pyramid. Yes, they all agreed without hesitation. I kneeled down. Then, the other members joined, and in the blink of an eye, we had built a human pyramid. This time, instead of standing aside, I was the part of the foundation. To my surprise, the teammates on my back didn’t feel that heavy, as if some magic power had lifted their weight off me. At that moment, I began to realize what my experiences had taught me: The first robotics team taught me to always adapt to changes and embrace strangers, and the human pyramid taught me to trust and to support each other. 
 
-## My Engineering Notebook
+## FIRST Tech Challenge 2019
+![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/2019_Robotics.jpg)
 
+![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/2019_1.jpg)
+
+![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/2019_2.jpg)
+
+![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/2017.jpg)
+
+![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/VID_20190119_154919338.mp4)
