@@ -6,7 +6,7 @@ author: x-ry
 
 layout: post
 comments: false
-hidden: false
+hidden: true
 published: true
 
 surfaceTags: false
