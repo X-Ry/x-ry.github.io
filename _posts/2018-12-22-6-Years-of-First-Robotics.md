@@ -79,3 +79,7 @@ At the Robophin’s first regional robotics competition, we were constantly work
 ![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/2019_1.jpg)
 
 ![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/2019_2.jpg)
+
+![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/2017.jpg)
+
+![FIRST Tech Challenge 2019 ](https://x-ry.github.io/assets/images/posts/FTC/VID_20190119_154919338.mp4)
