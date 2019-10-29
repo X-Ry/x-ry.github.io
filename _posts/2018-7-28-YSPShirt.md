@@ -13,7 +13,7 @@ surfaceTags: false
 showDate: false
 ---
 
-<span class="drop-cap">YSP</span> The Young Scholars Program (YSP) at the University of Chicago offers enthusiastic and talented math students from 7th [thru](https://x-ry.github.io/YSPShirt-Etc/) 12th grades an opportunity to strengthen their mathematical powers through a deep experience in mathematical thought and effort. The goal of the program is to broaden and enrich students' understanding of mathematics. Each year's topics alternate between geometry and number theory. Last year's key topic was number theory. Over the course of the summer camp, as we learned about Markov Systems, and knowing that YSP was in need of a T-shirt design, I tried designing a T-shirt that would reflect what we had learned at YSP.
+<span class="drop-cap">YSP</span> The Young Scholars Program (YSP) at the University of Chicago offers enthusiastic and talented math students from [7th](https://x-ry.github.io/YSPShirt-Etc/) thru 12th grades an opportunity to strengthen their mathematical powers through a deep experience in mathematical thought and effort. The goal of the program is to broaden and enrich students' understanding of mathematics. Each year's topics alternate between geometry and number theory. Last year's key topic was number theory. Over the course of the summer camp, as we learned about Markov Systems, and knowing that YSP was in need of a T-shirt design, I tried designing a T-shirt that would reflect what we had learned at YSP.
 
 
 Here is a link to the video explaining how I created the shirt.

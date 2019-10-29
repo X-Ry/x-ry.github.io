@@ -1,5 +1,5 @@
 ---
-title: 'YSP Shirt Etcetera'
+title: 'YSP Etcetera - Previous Years at YSP'
 date: '2018-07-28 10:58pm'
 description: 'YSP Shirt Etcetera'
 author: x-ry
