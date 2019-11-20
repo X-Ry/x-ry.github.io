@@ -19,7 +19,7 @@ comments: false
 
   Welcome to Hack Chicago, the Lollapalooza for coders. The warehouse was completely packed with high-schoolers from Chicago to Michigan. Sleeping bags, toothbrushes, laptops, huge monitors, and Oculus Rift kits were scattered around on tables and floors. We mingled in the crowd, and finally, I found a snug hallway behind the kitchen counter (making it very easy to snack and hack) and settled in. 
 
-![S Mart. Get it? It stands for both Smart Mart and Student Mart!](https://x-ry.github.io/assets/images/posts/hack/corners.jpg)
+![S Mart. Get it? It stands for both Smart Mart and Student Mart!](https://x-ry.github.io/assets/images/posts/hack/corners.png)
 ![Small Nice Hallway](https://x-ry.github.io/assets/images/posts/hack/corner3.gif)
 
   At the opening ceremony, we were introduced to a platform we would become very familiar with: repl.it, an online tool that could run multiple languages, some even working together like HTML, CSS, and Javascript, all running at the same time to emulate a site. “The limit to what you can create is your imagination!” And with that being the endnote for the open ceremony, the timer for 24 hours turned on.
