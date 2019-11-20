@@ -5,10 +5,6 @@ description: 'Summer 2017'
 author: ryann	
 
 layout: post
-
-tag:
-  - Global Citizen
-  - Culture Exchange
   
 published: true
 hidden: true
@@ -22,6 +18,7 @@ The students we taught in Chengdu were elementary school students in China, but 
 Chinese Elementary Schoolers (小学生 xiao xue sheng) attend Elementary School (小学 xiao xue).
 
 Chinese Middle Schoolers (中学生 zhong xue sheng) attend Middle School (初中 chu zhong).
+
 Chinese High Schoolers (高中生 gao zhong sheng) attend High School (高中 gao zhong).
 
 
