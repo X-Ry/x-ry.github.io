@@ -34,8 +34,13 @@ comments: false
 
   Soon I discovered that I have overestimated our rookie coding abilities. SMart, ambitious as it was, clearly wasn’t going to be finished in time. We quickly came up with a new idea, to create a digital version of a foreign variation on the strategic game of rock paper scissors (RPS). John and I traded spots working on the code. While he slept, I continued progress on the game, clicking and clacking away in my sleeping bag under the table. Then, I went to sleep as he continued to do his part of the work. I woke up by hearing an event coordinator shouting “three hours to go!”  With a stiff back and a stiff mind, I knew there was no time to waste. We put all our effort into the game. I maneuvered around the obstacles by coding and learning new techniques on the spot. We polished the game up as much as we could in DrRacket, and gave it the title “Rock Paper Scissors Stretch.” At the final ceremony, we presented our work on two laptops, demonstrating our product. 
 
+Here's a link to the project page of Rock Paper Scissors Stretch:
+
+[Math Team Video 1: Raiders Of The Lost Math Problems](https://devpost.com/software/rock-paper-scissors-stretch)
+
 ![2computers](https://x-ry.github.io/assets/images/posts/hack/2computers.jpg)
 
 ![rock paper scissors stretch image](https://x-ry.github.io/assets/images/posts/hack/rock.jpg)
 
-  Time passed quickly when you are surrounded by hundreds of earnest and caffeinated teenagers. When the clock struck, I finished the game with a sore back but an excited mind. It’s motivating to see my coding pool of knowledge expands immensely in one night by practicing and using the latest and the most efficient tools. I never knew I could learn so much while having fun in one night. Hack Chicago inspired me to create the “Mobile App Inventor Club” in my high school, and I encouraged a group of self experimenters with curious minds to experiment just for the fun of it, and collaborate as much as we could to solve a problem or create a nerdy game.
+  Time passes quickly when you are surrounded by hundreds of earnest and caffeinated teenagers. When the clock struck, I finished the game with a sore back but an excited mind. It’s motivating to see my coding pool of knowledge expands immensely in one night by practicing and using the latest and the most efficient tools. I never knew I could learn so much while having fun in one night. Hack Chicago inspired me to create the “Mobile App Inventor Club” in my high school, and I encouraged a group of self experimenters with curious minds to experiment just for the fun of it, and collaborate as much as we could to solve a problem or create a nerdy game.
+
