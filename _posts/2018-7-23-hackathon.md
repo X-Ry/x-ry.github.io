@@ -34,9 +34,7 @@ comments: false
 
   Soon I discovered that I have overestimated our rookie coding abilities. SMart, ambitious as it was, clearly wasn’t going to be finished in time. We quickly came up with a new idea, to create a digital version of a foreign variation on the strategic game of rock paper scissors (RPS). John and I traded spots working on the code. While he slept, I continued progress on the game, clicking and clacking away in my sleeping bag under the table. Then, I went to sleep as he continued to do his part of the work. I woke up by hearing an event coordinator shouting “three hours to go!”  With a stiff back and a stiff mind, I knew there was no time to waste. We put all our effort into the game. I maneuvered around the obstacles by coding and learning new techniques on the spot. We polished the game up as much as we could in DrRacket, and gave it the title “Rock Paper Scissors Stretch.” At the final ceremony, we presented our work on two laptops, demonstrating our product. 
 
-Here's a link to the project page of Rock Paper Scissors Stretch:
-
-[Math Team Video 1: Raiders Of The Lost Math Problems](https://devpost.com/software/rock-paper-scissors-stretch)
+[Here's a link to the project page of Rock Paper Scissors Stretch](https://devpost.com/software/rock-paper-scissors-stretch)
 
 ![2computers](https://x-ry.github.io/assets/images/posts/hack/2computers.jpg)
 
