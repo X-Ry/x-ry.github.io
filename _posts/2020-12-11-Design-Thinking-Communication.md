@@ -1,6 +1,6 @@
 ---
 title: 'The Zoomer - Northwestern Design Thinking Communication 106'
-date: '2020-12-11 7:30pm'
+date: '2020-12-11 8:53pm'
 description: ''
 author: x-ry	
 
@@ -12,8 +12,8 @@ published: true
 surfaceTags: false
 showDate: true
 ---
+***DTC - Design Thinking Communication***
 
-**DTC - Design Thinking Communication**
 At Northwestern, I attended the DTC class. I worked in a team of 4 to create a solution for a client. Nancy Cowles of non-profit organization Kids in Danger asked our group to design a device that would enhance a child’s tablet, facilitating remote learning (due to Covid-19) and also making tablets safer for children to use.
 
 Our group learned to follow the design process, following the main steps of of researching, ideating, prototyping, testing, iteration, and presentation. We came up with multiple mockups, and through further user testing/observation with families of preschool children and a design review with our classmates, we chose one design that most effectively fit our requirements, and we called it the Zoomer.
@@ -21,11 +21,12 @@ Our group learned to follow the design process, following the main steps of of r
 The Zoomer is a tablet case and remote control that aims to make video conferencing applications, specifically Zoom, more intuitive and easier to use. The case consists of three parts: a protective case, a kickstand, and a remote control. The Zoomer helps meet the needs of our users by making the tablet more accessible, making participation easier, and making the tablet safer for a child to use. Even though the Zoomer is primarily designed for use with Zoom, which our research shows is nearly ubiquitous at the moment, it can be easily adapted to other software and hardware as needed, and it's design is multipurpose, not limited to just be used by children.
 
 **The Zoomer**
-<img src="https://x-ry.github.io/assets/images/posts/DTC1/spinningTablet.png" width="450" alt="alt_text" title="image_tooltip">
+
+<img src="https://x-ry.github.io/assets/images/posts/DTC1/spinningTablet.gif" width="450" alt="Zoomer Tablet" title="image_tooltip">
 I led the creation of our team's design mockup, using OnShape to create a 3D model of what our tablet would look like.
 
-<object data="https://x-ry.github.io/assets/images/posts/DTC1/proto.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://x-ry.github.io/assets/images/posts/DTC1/proto.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://x-ry.github.io/assets/images/posts/DTC1/proto.pdf">Download PDF</a>.</p>
+<object data="https://x-ry.github.io/assets/images/posts/DTC1/Final Prototype.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://x-ry.github.io/assets/images/posts/DTC1/Final Prototype.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://x-ry.github.io/assets/images/posts/DTC1/Final Prototype.pdf">Download PDF</a>.</p>
     </embed>
 </object>
