@@ -9,6 +9,8 @@ layout: post
 published: true
 hidden: true
 comments: false
+tag:
+  - Etcetera
 ---
 Fun Fact!
 

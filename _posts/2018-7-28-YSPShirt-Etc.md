@@ -11,6 +11,8 @@ published: true
 
 surfaceTags: false
 showDate: false
+tag:
+  - Etcetera
 ---
 Here are some pictures from the year prior. I was doing a presentation with fellow classmates on how shapes create other shapes, by creating new lines for each edge of a shape, creataing new tesselating patterns.
 
