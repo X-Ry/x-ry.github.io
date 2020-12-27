@@ -7,10 +7,12 @@ author: x-ry
 layout: post
 comments: false
 hidden: true
-published: true 
+published: true
 
 surfaceTags: false
-showDate: true
+showDate: false
+tag:
+  - Etcetera
 ---
 <style>
 #image {
