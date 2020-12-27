@@ -32,7 +32,7 @@ Here is my half-finished attempt at creating something like "Eel Slap" where you
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.js"></script>
 <script>
-
+/*
 	function getWidth() {
 		  return Math.max(
 		    document.body.scrollWidth,
@@ -49,6 +49,8 @@ el.addEventListener("mousemove", (e) => {
   el.style.backgroundPositionX = e.offsetX + "px";
   el.style.backgroundPositionY = e.offsetY + "px";
 });
+
+*/
 
 		
 	let imgP;
@@ -78,35 +80,7 @@ el.addEventListener("mousemove", (e) => {
 	<img src="https://x-ry.github.io/assets/images/posts/DTC1/spinningTablet.gif" width="450" alt="Zoomer Tablet" title="image_tooltip">
 </div>
 
-here's something else:
-
-<div id="img" class="center">
-<img id="img" src="https://x-ry.github.io/assets/images/posts/DTC1/prototypeslap.png" alt="Zoomer Tablet" title="image_tooltip">
-</div>
-
-<div style="text-align: center;">
-  <script>
-var targetPageX = 0;
-var tweenedPageX = 0;
-
-document.onmousemove = function(evt) {
-  targetPageX = evt.pageX;
-};
-
-function animationFrame() {
-  requestAnimationFrame(animationFrame);
-
-  tweenedPageX += (targetPageX - tweenedPageX) / 5;
-
-  var px = Math.round(tweenedPageX / (window.innerWidth / 110));
-  document.getElementById('img').style.backgroundPosition = "0px " + (96600 - 575 * (px+1)) + "px";
-}
-
-requestAnimationFrame(animationFrame);
-</script>
-</div>
-
-finally, here's a video of the first time I got animating the model in OnShape to work. (Well, sort of...)
+Here's a video of the first time I got animating the model in OnShape to work. (Well, sort of...)
 
 <video width="400" controls autoplay>
     <source src="https://x-ry.github.io/assets/images/posts/DTC1/secret.mov" type="video/mp4">
