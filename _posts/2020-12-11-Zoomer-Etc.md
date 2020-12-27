@@ -16,7 +16,7 @@ tag:
 ---
 
 
-Here is my half-finished attempt at creating something like "Eel Slap" where you can drag the 3d model around on the website.
+Here is my half-finished attempt at creating something like "Eel Slap" where you can drag the 3d model around on the website by dragging your mouse.
 
 
 <div id="demo">
