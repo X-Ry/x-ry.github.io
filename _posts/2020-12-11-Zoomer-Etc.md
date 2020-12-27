@@ -32,7 +32,6 @@ Here is my half-finished attempt at creating something like "Eel Slap" where you
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.js"></script>
 <script>
-/*
 	function getWidth() {
 		  return Math.max(
 		    document.body.scrollWidth,
@@ -42,6 +41,8 @@ Here is my half-finished attempt at creating something like "Eel Slap" where you
 		    document.documentElement.clientWidth
 		  );
 		}
+/*
+	
 
 const el = document.querySelector("#image");
 
@@ -75,10 +76,6 @@ el.addEventListener("mousemove", (e) => {
 
 
 </script>
-
-<div style="text-align: center;">
-	<img src="https://x-ry.github.io/assets/images/posts/DTC1/spinningTablet.gif" width="450" alt="Zoomer Tablet" title="image_tooltip">
-</div>
 
 Here's a video of the first time I got animating the model in OnShape to work. (Well, sort of...)
 
