@@ -14,14 +14,7 @@ showDate: false
 tag:
   - Etcetera
 ---
-<style>
-#image {
-  height: 300px;
-  width: 300px;
-  background: url('https://x-ry.github.io/assets/images/posts/DTC1/prototype1.png') 0px 0px;
-}
 
-</style>
 
 Here is my half-finished attempt at creating something like "Eel Slap" where you can drag the 3d model around on the website.
 
