@@ -12,77 +12,97 @@ ok testing testing does this thing even work
 
 <body>
 	<script type="text/processing">
-		println("importing java util");
-		import java.util.*;
+		    class College{
+        String name;
+        int YEARS = 18;
+        int TOP_VISIBLE = 15;
+        float[] values = new float[YEARS]; //array of floats (they could be ints but im gonna stick close to the tutorial.)
+        int[] ranks = new int[YEARS]; //These are ranks ON THE VISUALIZATION. im assuming this breaks ties. ZERO INDEXED!
+                                      //these are NOT the ranks on the tsv file. That is values
+                                      //1st place = 0, 2nd place = 1, 3rd place = 2  // -1 = dont know
+        color c;
+        public College(String n){
+          name = n;
+          //initialize values of the arrays
+          for(int i = 0; i < YEARS; i++){
+            values[i] = 0;
+            ranks[i] = TOP_VISIBLE+1; //dont know what rank is yet.
+          }
+          //c = color(random(50,200),random(50,200),random(50,200));
+        }
+      }
+    
+    println("importing java util");
+    import java.util.*;
 
-		println("defining stuffs");
+    println("defining stuffs");
 
-		int YEARS;//DAY_LEN in example code
-		int COLLEGE_COUNT; //PEOPLE_COUNT in example code. Should be 21...? CHECK THIS?
+    int YEARS;//DAY_LEN in example code
+    int COLLEGE_COUNT; //PEOPLE_COUNT in example code. Should be 21...? CHECK THIS?
 
-		println("defining string lists");
-		String[] textFile; //load the text file in
-		String[] textFileJustNames; //load the text file in
-		String[] textFileTwo;
-		//array of colleges
+    println("defining string lists");
+    String[] textFile; //load the text file in
+    String[] textFileJustNames; //load the text file in
+    String[] textFileTwo;
+    //array of colleges
 
-		println("defining College");
-		College[] colleges; //example code: Person[] people;
+    println("defining College");
+    College[] colleges; //example code: Person[] people;
 
-		int TOP_VISIBLE = 15; //this is a top TEN video, so ten will be visible.
+    int TOP_VISIBLE = 15; //this is a top TEN video, so ten will be visible.
 
-		float[] maxes; //maximum value for every day across all people. will be helpful for scaling factors
+    float[] maxes; //maximum value for every day across all people. will be helpful for scaling factors
 
-		float X_MIN = 100;
-		float X_MAX = 1900;
-		float Y_MIN = 300;
-		float Y_MAX = 1000;
-		float X_W = X_MAX-X_MIN;
-		float Y_H = Y_MAX-Y_MIN;
+    float X_MIN = 100;
+    float X_MAX = 1900;
+    float Y_MIN = 300;
+    float Y_MAX = 1000;
+    float X_W = X_MAX-X_MIN;
+    float Y_H = Y_MAX-Y_MIN;
 
-		float currentScale = -1;
+    float currentScale = -1;
 
-		int frames = 0;
-		float currentYear = 0; //currentDay in example code
-		float FRAMES_PER_YEAR = 100; //dataset is 36 years, video should be 2 minutes long, so 0.3 YEARS A SECOND. Video is 60FPS, so 200 frames per year.
-		float BAR_HEIGHT;
-		float BAR_PROPORTION = 0.9; //arbiratarily set to 0.9. It makess a 0.1 gap between bars.
-		println("setting up font");
-		//PFont font; use text("",0,0); later to have processing automatically set up a font..?
+    int frames = 0;
+    float currentYear = 0; //currentDay in example code
+    float FRAMES_PER_YEAR = 100; //dataset is 36 years, video should be 2 minutes long, so 0.3 YEARS A SECOND. Video is 60FPS, so 200 frames per year.
+    float BAR_HEIGHT;
+    float BAR_PROPORTION = 0.9; //arbiratarily set to 0.9. It makess a 0.1 gap between bars.
+    println("setting up font");
+    //PFont font; use text("",0,0); later to have processing automatically set up a font..?
 
-		int[] unitPresets = {1,2,5,10,20,50,100,200,500,1000,2000,5000,10000,20000,50000,100000,200000,500000,1000000,2000000,5000000};
-		 //list of possible tick marks where horizontal stuff would be added in
-		int[] unitChoices; //give it a year and it'll tell you what unit you should use for that year
-		//PImage img[];
+    int[] unitPresets = {1,2,5,10,20,50,100,200,500,1000,2000,5000,10000,20000,50000,100000,200000,500000,1000000,2000000,5000000};
+     //list of possible tick marks where horizontal stuff would be added in
+    int[] unitChoices; //give it a year and it'll tell you what unit you should use for that year
+    //PImage img[];
 
-		String[] bignames = new String[63];
+    String[] bignames = new String[63];
 
-		//VideoExport videoExport;
+    //VideoExport videoExport;
 
-		int cols = 18; //there are 18 unique years
-		int rows = 63; //there are 63 unique big college (ID)s
+    int cols = 18; //there are 18 unique years
+    int rows = 63; //there are 63 unique big college (ID)s
 
-		//there are 8 variables to keep in 8 2d arrays. These should start out with all zeroes as values, which is what we want for the "no data" situation
-		int variables = 8;
-		int[][] undergrads = new int[cols][rows]; //year, then college IDs
-		float[][] white = new float[cols][rows]; //year, then college IDs
-		float[][] black = new float[cols][rows]; //year, then college IDs
-		float[][] hisp = new float[cols][rows]; //year, then college IDs
-		float[][] asian = new float[cols][rows]; //year, then college IDs
-		float[][] nhpi = new float[cols][rows]; //year, then college IDs
-		float[][] unknown = new float[cols][rows]; //year, then college IDs
-		float[][] ai = new float[cols][rows]; //year, then college IDs
-		float[][] mr = new float[cols][rows]; //year, then college IDs
+    //there are 8 variables to keep in 8 2d arrays. These should start out with all zeroes as values, which is what we want for the "no data" situation
+    int variables = 8;
+    int[][] undergrads = new int[cols][rows]; //year, then college IDs
+    float[][] white = new float[cols][rows]; //year, then college IDs
+    float[][] black = new float[cols][rows]; //year, then college IDs
+    float[][] hisp = new float[cols][rows]; //year, then college IDs
+    float[][] asian = new float[cols][rows]; //year, then college IDs
+    float[][] nhpi = new float[cols][rows]; //year, then college IDs
+    float[][] unknown = new float[cols][rows]; //year, then college IDs
+    float[][] ai = new float[cols][rows]; //year, then college IDs
+    float[][] mr = new float[cols][rows]; //year, then college IDs
 
-		//SLIDER
-		//sliderPos directly correlates to which frame is displayed. Also need to use LINEAR insteda of WA  
-		  int circleX = 1340; //sliderPos
-		  int circleY = 195;
-		  int circleSize = 20;
-		  boolean sliderMoving = false;
+    //SLIDER
+    //sliderPos directly correlates to which frame is displayed. Also need to use LINEAR insteda of WA  
+      int circleX = 1340; //sliderPos
+      int circleY = 195;
+      int circleSize = 20;
+      boolean sliderMoving = false;
 
 
-		println("going into void setup");
+    println("going into void setup");
 	</script>
 	<canvas id="sketch" style="border:1px solid black;"></canvas>
 	<!--<canvas data-processing-sources="myProgram.pde"></canvas> -->
