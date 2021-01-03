@@ -16,8 +16,6 @@ ok testing testing does this thing even work
 		import java.util.*;
 
 		println("defining stuffs");
-		String[] monthNames = {"JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"};
-		int START_DATE = dateToDays("1993-01-01");
 
 		int YEARS;//DAY_LEN in example code
 		int COLLEGE_COUNT; //PEOPLE_COUNT in example code. Should be 21...? CHECK THIS?
@@ -25,6 +23,8 @@ ok testing testing does this thing even work
 		String[] textFileJustNames; //load the text file in
 		String[] textFileTwo;
 		//array of colleges
+
+		println("defining College");
 		College[] colleges; //example code: Person[] people;
 
 		int TOP_VISIBLE = 15; //this is a top TEN video, so ten will be visible.
@@ -45,6 +45,7 @@ ok testing testing does this thing even work
 		float FRAMES_PER_YEAR = 100; //dataset is 36 years, video should be 2 minutes long, so 0.3 YEARS A SECOND. Video is 60FPS, so 200 frames per year.
 		float BAR_HEIGHT;
 		float BAR_PROPORTION = 0.9; //arbiratarily set to 0.9. It makess a 0.1 gap between bars.
+		println("setting up font");
 		PFont font;
 
 		int[] unitPresets = {1,2,5,10,20,50,100,200,500,1000,2000,5000,10000,20000,50000,100000,200000,500000,1000000,2000000,5000000};
