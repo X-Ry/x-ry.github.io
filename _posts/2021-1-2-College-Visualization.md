@@ -14,10 +14,10 @@ showDate: true
 ---
 ### College Data Visualization
 
-College Rankings Visualized:
+Link to College Rankings Visualized:
 
 [![Watch the video](https://img.youtube.com/vi/6PcIdUVGhpc/default.jpg)](https://youtu.be/6PcIdUVGhpc)
 
-College Enrollment Visualized:
+Link to College Enrollment Visualized:
 
 [![Watch the video](https://img.youtube.com/vi/Pt1pyoWD6P0/default.jpg)](https://youtu.be/Pt1pyoWD6P0)
