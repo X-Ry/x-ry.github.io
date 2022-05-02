@@ -10,4 +10,4 @@ permalink: "/about"
 
 
 
-Hi! I'm Ryan Newkirk, a freshman in college from Chicago currently attending [Northwestern University](https://www.northwestern.edu/).
+Hi! I'm Ryan Newkirk, a sophomore in college from Chicago currently attending [Northwestern University](https://www.northwestern.edu/).
