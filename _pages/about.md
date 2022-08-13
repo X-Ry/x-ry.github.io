@@ -10,4 +10,5 @@ permalink: "/about"
 
 
 
-Hi! I'm Ryan Newkirk, a sophomore in college from Chicago currently attending [Northwestern University](https://www.northwestern.edu/).
+Hi! I'm Ryan Newkirk, a rising junior in college from Chicago currently attending [Northwestern University](https://www.northwestern.edu/).
+Over Summer 2022 I'm working at [Square](https://squareup.com/us/en) (part of Block Inc)!
