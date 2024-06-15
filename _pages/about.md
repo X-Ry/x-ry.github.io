@@ -10,4 +10,4 @@ permalink: "/about"
 
 
 
-Hi! I'm Ryan Newkirk, a senior in college from Chicago currently attending [Northwestern University](https://www.northwestern.edu/) pursuing a Bachelors and Masters degree with a Major in Computer Science and a Minor in Data Science and Engineering. Over Summer 2022 and Summer 2023 I worked at at [Square](https://squareup.com/us/en)!
+Hi! I'm Ryan Newkirk. I recently graduated from [Northwestern University](https://www.northwestern.edu/) and obtained a Bachelors and Masters degree with a Major in Computer Science and a Minor in Data Science and Engineering. Over Summer 2022 and Summer 2023 I worked at at [Square](https://squareup.com/us/en)!

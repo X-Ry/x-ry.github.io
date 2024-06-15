@@ -27,7 +27,7 @@ permalink: /:title/ #Sets permalink for pages and posts
 ################################## SITE INFO ##################################
 ### surfaced ###
 name: Ryan Newkirk
-bio: CS/CE/Data Science Student, Civic Tech Enthusiast, Video Producer
+bio: Computer Science, AI, Machine Learning, Data Science Engineer
 title: Ryan Newkirk's Personal Website #(tab title)
 
 ### SEO ###
@@ -46,7 +46,7 @@ social:
     links:
         - https://twitter.com/RyanNewkirk1
         - https://www.facebook.com/ryan.newkirk.161
-       # - https://www.linkedin.com/in/justinwzig
+        - https://www.linkedin.com/in/rnewk
         - https://x-ry.github.io/
         
        
@@ -68,6 +68,7 @@ projects: true
 about: true
 blog: true
 disqus: false
+resume: true
 
 # uncomment for pagination
 # paginate: 5
@@ -86,7 +87,7 @@ post-advance-links: [blog] # Display links for next and previous posts for the s
 authors:
     justinz:
         name: Ryan Newkirk
-        bio: CS/CE/Data Science Student, Civic Tech Enthusiast, Video Story Teller
+        bio: Computer Science, AI/ML/NLP, Data Science Engineer 
         external-image: false
         picture: assets/images/profiles/small-profile2.png
         hover-picture: assets/images/profiles/profile.jpg
@@ -110,7 +111,7 @@ facebook: /ryan.newkirk.161
 #google: mygoogle
 #instagram: justinwzig
 # pinterest: mypinterest
-#linkedin: justinwzig
+linkedin: rnewk
 #youtube: /channel/UCfRGThUf4GliN9K9MCg7QVg?view_as=subscriber
 # spotify: myspotify
 github: x-ry
@@ -121,7 +122,7 @@ github: x-ry
 # medium: medium
 # vimeo: myvimeo
 
-email: rnewkirk@cps.edu
+email: ryannewkirk2024@u.northwestern.edu
 
 ################################## FRONT MATTER DEFAULTS ##################################
 defaults:
