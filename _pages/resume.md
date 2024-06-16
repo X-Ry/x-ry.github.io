@@ -7,6 +7,8 @@ permalink: "/resume"
 
 # Resume
 
+<p style="text-align: center;">Click on a link to view the corresponding Resume PDF.</p>
+
 <style>
 .resumes-grid {
   display: grid;
